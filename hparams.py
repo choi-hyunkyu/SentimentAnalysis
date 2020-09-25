@@ -1,0 +1,10 @@
+SEED = 5
+batch_size = 64
+learning_rate = 1e-4
+nb_epochs = 20
+batch_size = 64
+n_layers = 1
+hidden_dim = 256
+vocab_size = 47294
+embedding_dim = 128
+n_classes = 2
